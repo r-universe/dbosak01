@@ -1,0 +1,22 @@
+[
+  {
+    "package": "fmtr",
+    "oncran": true
+  },
+  {
+    "package": "libr",
+    "oncran": true
+  },
+  {
+    "package": "logr",
+    "oncran": true
+  },
+  {
+    "package": "reporter",
+    "oncran": true
+  },
+  {
+    "package": "sassy",
+    "oncran": true
+  }
+]
