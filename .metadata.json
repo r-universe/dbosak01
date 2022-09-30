@@ -1,5 +1,9 @@
 [
   {
+    "package": "common",
+    "oncran": true
+  },
+  {
     "package": "fmtr",
     "oncran": true
   },
