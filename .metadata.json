@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "logr",
+    "package": "fmtr",
     "oncran": true
   },
   {
@@ -12,15 +12,15 @@
     "oncran": true
   },
   {
-    "package": "fmtr",
-    "oncran": true
-  },
-  {
-    "package": "sassy",
+    "package": "logr",
     "oncran": true
   },
   {
     "package": "reporter",
+    "oncran": true
+  },
+  {
+    "package": "sassy",
     "oncran": true
   }
 ]
