@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "defineR",
+    "oncran": true
+  },
+  {
     "package": "fmtr",
     "oncran": true
   },

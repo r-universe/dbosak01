@@ -8,6 +8,11 @@
 	url = https://github.com/dbosak01/common
 	shallow = true
 	registered = true
+[submodule "defineR"]
+	path = defineR
+	url = https://github.com/dbosak01/definer
+	shallow = true
+	registered = true
 [submodule "fmtr"]
 	path = fmtr
 	url = https://github.com/dbosak01/fmtr
