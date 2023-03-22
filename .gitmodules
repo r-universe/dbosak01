@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ards"]
+	path = ards
+	url = https://github.com/dbosak01/ards
+	shallow = true
+	registered = true
 [submodule "common"]
 	path = common
 	url = https://github.com/dbosak01/common
