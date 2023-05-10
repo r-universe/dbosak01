@@ -18,6 +18,11 @@
 	url = https://github.com/dbosak01/definer
 	shallow = true
 	registered = true
+[submodule "fetch"]
+	path = fetch
+	url = https://github.com/dbosak01/fetch
+	shallow = true
+	registered = true
 [submodule "fmtr"]
 	path = fmtr
 	url = https://github.com/dbosak01/fmtr
