@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ards"]
 	path = ards
 	url = https://github.com/dbosak01/ards
-	shallow = true
-	registered = true
 [submodule "common"]
 	path = common
 	url = https://github.com/dbosak01/common
-	shallow = true
-	registered = true
 [submodule "defineR"]
 	path = defineR
 	url = https://github.com/dbosak01/definer
-	shallow = true
-	registered = true
 [submodule "fetch"]
 	path = fetch
 	url = https://github.com/dbosak01/fetch
-	shallow = true
-	registered = true
 [submodule "fmtr"]
 	path = fmtr
 	url = https://github.com/dbosak01/fmtr
-	shallow = true
-	registered = true
 [submodule "libr"]
 	path = libr
 	url = https://github.com/dbosak01/libr
-	shallow = true
-	registered = true
 [submodule "logr"]
 	path = logr
 	url = https://github.com/dbosak01/logr
-	shallow = true
-	registered = true
 [submodule "reporter"]
 	path = reporter
 	url = https://github.com/dbosak01/reporter
-	shallow = true
-	registered = true
 [submodule "sassy"]
 	path = sassy
 	url = https://github.com/dbosak01/sassy
-	shallow = true
-	registered = true
