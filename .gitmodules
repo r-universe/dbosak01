@@ -23,6 +23,9 @@
 [submodule "logr"]
 	path = logr
 	url = https://github.com/dbosak01/logr
+[submodule "pkgdiff"]
+	path = pkgdiff
+	url = https://github.com/dbosak01/pkgdiff
 [submodule "procs"]
 	path = procs
 	url = https://github.com/dbosak01/procs
